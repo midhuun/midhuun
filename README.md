@@ -7,7 +7,7 @@
 
 - 🏢 I’m looking to work on **Freelance E-Commerce Websites**
 
-- 👨‍💻 All of my projects are available at [www.midhuun.in](www.midhuun.in)
+- 👨‍💻 All of my projects are available at [www.midhuun.in](https://www.midhuun.in)
 
 - 📫 How to reach me **midhuun.2003@gmail.com**
 
