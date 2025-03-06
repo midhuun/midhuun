@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Midhun Kumar</h1>
 <h3 align="center">A Software Engineer Building Fast and Smooth Web Apps with React and Next.js ⚡🚀</h3>
 
-- 🔭 I’ve recently worked on [an E-Commerce Web Application](https://www.stilesagio.com)
+- 🔭 I’ve recently worked in a MERN Stack Application with order tracking, payment authentication and user authentication [Stile Sagio](https://www.stilesagio.com)
 
 - 🌱 I’m currently learning **Backend Frameworks, System Design**
 
